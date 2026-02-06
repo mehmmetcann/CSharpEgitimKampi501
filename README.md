@@ -1,4 +1,4 @@
-# CSharpEgitimKampi501 – WinForms & Dapper Project
+# CSharpEducation501 – WinForms & Dapper Project
 
 This repository contains an educational and practical project developed by following the **C# Education Camp – Dapper Module**. The project is built using **Windows Forms**, **Dapper**, **Repository Pattern**, and **DTO-based architecture**, focusing on clean code and real-world data access practices. All concepts taught in the training were directly applied in this project.
 
